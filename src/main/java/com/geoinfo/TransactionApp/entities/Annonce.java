@@ -67,7 +67,7 @@ public class Annonce  {
     private Citoyen annonceur;
 
 
-    @Size(max = 1500)
+    @Size(max = 2500)
     private String photo;
 
 
